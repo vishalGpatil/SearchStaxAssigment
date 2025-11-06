@@ -1,0 +1,10 @@
+{
+  "runMode": "parallel",
+  "browserMode": true,
+  "baseURL": "https://www.amazon.in",
+  //API Config......
+  "apiBaseURL": "https://v2.convertapi.com",
+  "sharedResultFile": "results/convert-upload-result.json",
+  "tokenFile": "results/convert-token.json",
+  "downloadedFile": "results/downloaded.txt"
+}
